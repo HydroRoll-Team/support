@@ -25,16 +25,16 @@ body:
       description: 你为什么想加入水系社区？
     validations:
       required: true
-- type: dropdown
-  id: download
-  attributes:
-    label: 你想以怎样的身份进入水系社区？（默认：遗产骰主）
-    options:
-      - 遗产骰主
-      - 贡献者
-      - 核心成员
-  validations:
-    required: true
+  - type: dropdown
+    id: download
+    attributes:
+      label: 你想以怎样的身份进入水系社区？（默认：遗产骰主）
+      options:
+        - 遗产骰主
+        - 贡献者
+        - 核心成员
+    validations:
+      required: true
   - type: markdown
     attributes:
       value: |
