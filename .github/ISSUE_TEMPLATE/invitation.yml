@@ -18,13 +18,6 @@ body:
       placeholder: 输入你的QQ账号
     validations:
       required: true
-  - type: textarea
-    id: Additional
-    attributes:
-      label: Additional Context
-      description: 你为什么想加入水系社区？
-    validations:
-      required: true
   - type: dropdown
     id: download
     attributes:
@@ -33,6 +26,13 @@ body:
         - 遗产骰主
         - 贡献者
         - 核心成员
+    validations:
+      required: true
+  - type: textarea
+    id: Additional
+    attributes:
+      label: Additional Context
+      description: 你为什么想加入水系社区？
     validations:
       required: true
   - type: markdown
