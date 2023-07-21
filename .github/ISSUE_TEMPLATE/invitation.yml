@@ -17,7 +17,7 @@ body:
       label: QQ ID (if applicable)
       placeholder: 输入你的QQ账号
     validations:
-      required: false
+      required: true
   - type: textarea
     id: Additional
     attributes:
