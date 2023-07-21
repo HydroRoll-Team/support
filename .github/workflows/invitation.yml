@@ -17,3 +17,16 @@ jobs:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           comment: '<b>邀请函发送成功~ 欢迎来到水系社区！ 🎉</b><br><br>不要忘记在人员列表内将组织可见性改成“公开”("Public")，这样可以让所有人都看到。 <br>你可以在[这里](https://github.com/orgs/HydroRoll-Team/people)找到自己并且更改组织可见性。<br><br>希望这些可以帮助你！<br><br>简律纯。'
 
+# jobs:
+#   invite:
+#     permissions: write-all
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Invite contributor to the organization
+#         uses: lekterable/inclusive-organization-action@v1.1.0
+#         with:
+#           organization: HydroRoll-Team
+#           team: HydroRollMaster
+#           comment: '<b>邀请函发送成功~ 欢迎来到水系社区！ 🎉</b><br><br>不要忘记在人员列表内将组织可见性改成“公开”("Public")，这样可以让所有人都看到。 <br>你可以在[这里](https://github.com/orgs/HydroRoll-Team/people)找到自己并且更改组织可见性。<br><br>希望这些可以帮助你！<br><br>简律纯。'
+#         env:
+#           ACCESS_TOKEN: ${{ secrets.INVITE_TOKEN }}
