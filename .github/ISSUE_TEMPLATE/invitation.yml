@@ -1,6 +1,6 @@
-name: 邀请成为水系历史骰主
-description: 我很乐意成为水系的骰主并为社区做出贡献
-title: "请邀请我成为水系历史骰主并允许我为社区做出贡献"
+name: 邀请加入水系社区
+description: 我很乐意加入水系社区并为社区做出贡献
+title: "请邀请我成为水系历史骰主或加入社区并允许我为社区做出贡献"
 labels: [invitation]
 assignees: [HsiangNianian]
 body:
@@ -25,7 +25,7 @@ body:
       options:
         - 遗产骰主
         - 贡献者
-        - 核心成员
+        - 核心成员（审核严格）
     validations:
       required: true
   - type: textarea
@@ -38,4 +38,4 @@ body:
   - type: markdown
     attributes:
       value: |
-        你也可以加入水系用户群(126211793)或者访问水系官网(hydroroll.retrofor.space)。
+        你也可以加入水系用户群(126211793)或者访问水系官网(https://hydroroll.retrofor.space)。
