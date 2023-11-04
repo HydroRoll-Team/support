@@ -7,10 +7,4 @@ QQ-Group: ``126211793``
 People
 ------
 
-  HsiangNianian
-
-+-------------+---------------------+
-+ *Email*     | *Site*              + 
-+=============+=====================+
-+ i@jyunko.cn | https://jyunko.cn   +
-+-------------+---------------------+
+* HsiangNianian<leader@hydroroll.team>
