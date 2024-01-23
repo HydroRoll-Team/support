@@ -2,4 +2,4 @@
 
 ---
 
-* leader:  [`HsiangNianian`](https://mailto:leader@hydroroll.team)
+* leader:  [`HsiangNianian`](mailto:leader@hydroroll.team)
