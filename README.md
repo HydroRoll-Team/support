@@ -1,6 +1,5 @@
 # Team
 
-Management
-
 ---
-* HsiangNianian(<leader@hydroroll.team>)
+
+* leader:  [`HsiangNianian`](https://mailto:leader@hydroroll.team)
