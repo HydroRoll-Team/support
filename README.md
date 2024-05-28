@@ -2,7 +2,9 @@
 
 ---
 
-* leader:  [`HsiangNianian`](mailto:leader@hydroroll.team)
+* leader: [`Hsiang Nianian`](mailto:leader@hydroroll.team)
+* bot: [`HydroRoll[Bot]`](mailto:bot@hydroroll.team)
+* member: [`Pine`](mailto:pine@hydroroll.team)
 
 
 # Email
