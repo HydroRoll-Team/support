@@ -12,10 +12,10 @@ body:
     validations:
       required: true
   - type: input
-    id: qq_id
+    id: email
     attributes:
-      label: QQ ID (if applicable)
-      placeholder: 输入你的QQ账号
+      label: email(if applicable)
+      placeholder: 验证邮箱(仅用于核实身份)
     validations:
       required: true
   - type: dropdown
