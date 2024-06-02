@@ -14,7 +14,7 @@ body:
   - type: input
     id: email
     attributes:
-      label: email(if applicable)
+      label: Email
       placeholder: 验证邮箱(仅用于核实身份)
     validations:
       required: true
