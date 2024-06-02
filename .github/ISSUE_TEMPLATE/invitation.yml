@@ -8,7 +8,7 @@ body:
     id: name
     attributes:
       label: Name
-      placeholder: 输入你的名字
+      placeholder: 输入你的名字(希望大家如何称呼你，请务必不要使用真名)
     validations:
       required: true
   - type: input
