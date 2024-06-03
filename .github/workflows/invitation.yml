@@ -7,7 +7,7 @@ jobs:
     permissions: write-all
     runs-on: ubuntu-latest
     env:
-      INVITE_TOKEN: ${{ secrets.INVITE_TOKEN }}
+      INVITE_TOKEN: ${{ secrets.BOT_TOKEN }}
     steps:
       - name: Invite on label
         uses: vj-abigo/invite-on-label@v1.4
