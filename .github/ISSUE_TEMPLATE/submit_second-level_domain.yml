@@ -1,0 +1,11 @@
+name: Submit a Second-Level Domain Name
+description: Submit your second-level domain name.
+title: "domain: {name}"
+body:
+  - type: input
+    id: domain_name
+    attributes:
+      label: domain_name
+      description: 二级域名全称(例如 shiki.hydroroll.team)
+    validations:
+      required: true
