@@ -1,0 +1,11 @@
+name: Publish an AI Model
+description: Submit your Model to be automatically validated and published on the market.
+title: "model: {name}"
+body:
+  - type: input
+    id: model_name
+    attributes:
+      label: model_name
+      description: model名
+    validations:
+      required: true
