@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report Issue
+    url: https://github.com/HydroRoll-Team/support/issues/new
+    about: Report the issue.
+  - name: Share An Idea
+    url: https://github.com/HydroRoll-Team/support/issues/new
+    about: Have an idea for any about HydroRoll? Just share it!
+  - name: Need Help
+    url: https://docs.hydroroll.team/
+    about: Read the documentation.
+  - name: Frequently Asked Questions
+    url: https://faq.hydroroll.team/
+    about: Read the FAQ site for more help.
