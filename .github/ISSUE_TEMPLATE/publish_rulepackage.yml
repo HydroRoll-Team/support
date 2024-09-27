@@ -1,0 +1,19 @@
+name: Publish a RulePackage
+description: Submit your RulePackage to be automatically validated and published on the market.
+title: "rulepackage: {name}"
+body:
+  - type: input
+    id: ipk_name
+    attributes:
+      label: ipk_name
+      description: ipk 项目名
+    validations:
+      required: true
+
+  - type: input
+    id: register_name
+    attributes:
+      label: register_name
+      description: 注册导入时的包名模块名等
+    validations:
+      required: true
