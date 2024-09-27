@@ -1,0 +1,30 @@
+name: Publish a script
+description: Submit your script to be automatically validated and published on the market.
+title: "script: {name}"
+body:
+  - type: input
+    id: script_name
+    attributes:
+      label: script_name
+      description: 插件名
+    validations:
+      required: true
+
+  - type: input
+    id: script_info
+    attributes:
+      label: script_info
+      description: 插件介绍与基本信息
+    validations:
+      required: true
+
+  - type: dropdown
+    id: script_language
+    attributes:
+      label: script_language
+      multiple: true
+      options:
+        - Rust
+        - Python
+        - Lua
+        - Nivis
