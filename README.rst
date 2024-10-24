@@ -25,12 +25,12 @@ Email
 * 社区开发者开源项目频道: `opensource@hydroroll.team <mailto:opensource@hydroroll.team>`__
 
 =============
-Webvpn(Proxy)
+Proxy
 =============
 
   [!WARNING]
 
-  水系为社区用户开放的代理节点，使用下面的节点需要同意水系的隐私策略，UUID每周更新。
+  水系为社区用户开放的用于专门访问 Github 的代理节点，使用下面的节点需要同意水系的隐私策略，UUID每周更新。切勿用于非法用途且请你知悉 `代理(Proxy)与VPN和f墙的区别 <https://www.bilibili.com/video/BV1vz42187Da/?share_source=copy_web&vd_source=4e203d73ba304d17c0d4d35c81b92072>`__ 。
 
   **非水系社区开发者慎用水系社区开发者节点** 以及 **海豹相关人员(开发者、用户)禁止使用以下所有节点** ，如被查出使用节点访问海豹相关内容或非社区开发者备案 ip 访问 HydroRoll-Team 社区开发者节点，一律按照 `水系社区行为准则`_ 处置。
 
