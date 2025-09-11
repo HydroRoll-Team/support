@@ -10,7 +10,7 @@ Team
 
 * leader: `HsiangNianian`_
 * bot: `HydroRoll[Bot]`_
-* member: `Pine`_、`Mouwoo`_、`sequel5`_、`苏向夜`_
+* member: `Pine`_、`Mouwoo`_、`sequel5`_
 
 
 =====
@@ -60,6 +60,5 @@ Email
 .. _Pine: mailto:pine@hydroroll.team
 .. _Sequel5: mailto:sequel5@hydroroll.team
 .. _Mouwoo: mailto:mouwoo@hydroroll.team
-.. _苏向夜: mailto:suxiangye@hydroroll.team
 .. _水系社区行为准则: https://docs.hydroroll.team/zh-cn/latest/community/code-of-conduct.html
 .. _论坛: https://github.com/HydroRoll-Team/support/discussions
