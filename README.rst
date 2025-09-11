@@ -24,35 +24,36 @@ Email
 * 社区用户支持频道: `support@hydroroll.team <mailto:support@hydroroll.team>`__
 * 社区开发者开源项目频道: `opensource@hydroroll.team <mailto:opensource@hydroroll.team>`__
 
-=============
-Proxy
-=============
-
-  [!WARNING]
-
-  水系为社区用户开放的用于专门访问 Github 的代理节点，使用下面的节点需要同意水系的隐私策略，UUID每周更新。切勿用于非法用途且请你知悉 `代理(Proxy)与VPN和f墙的区别 <https://www.bilibili.com/video/BV1vz42187Da/?share_source=copy_web&vd_source=4e203d73ba304d17c0d4d35c81b92072>`__ 。
-
-  **非水系社区开发者慎用水系社区开发者节点** 以及 **海豹相关人员(开发者、用户)禁止使用以下所有节点** ，如被查出使用节点访问海豹相关内容或非社区开发者备案 ip 访问 HydroRoll-Team 社区开发者节点，一律按照 `水系社区行为准则`_ 处置。
-
-  开发不易，如果水系的节点服务以及其他公益服务对你有帮助的话，欢迎加入水系社区参与开发讨论以及关注水系组织；如果发现节点异常，欢迎在水系 Github `论坛`_ 发帖或使用邮箱发送给上述任何一位 Team 成员汇报节点情况。
-
-  ``UUID = b3d3f90c-63b2-4548-a774-648eccd00a1c``
-
-[1]HydroRoll-Team 社区开发者节点
-
-    vless.hydroroll.team/{UUID}
-
-[2]AICMUniversity 社团节点
-
-    vless.aicmu.ac.cn/{UUID}
-
-[3]简律纯个人站点节点
-
-    vless.jyunko.cn/{UUID}
-
-[4]AsynthIn 企业节点
-
-    vless.asynth.in/{UUID}
+..
+  =============
+  Proxy
+  =============
+  
+    [!WARNING]
+  
+    水系为社区用户开放的用于专门访问 Github 的代理节点，使用下面的节点需要同意水系的隐私策略，UUID每周更新。切勿用于非法用途且请你知悉 `代理(Proxy)与VPN和f墙的区别 <https://www.bilibili.com/video/BV1vz42187Da/?share_source=copy_web&vd_source=4e203d73ba304d17c0d4d35c81b92072>`__ 。
+  
+    **非水系社区开发者慎用水系社区开发者节点** 以及 **海豹相关人员(开发者、用户)禁止使用以下所有节点** ，如被查出使用节点访问海豹相关内容或非社区开发者备案 ip 访问 HydroRoll-Team 社区开发者节点，一律按照 `水系社区行为准则`_ 处置。
+  
+    开发不易，如果水系的节点服务以及其他公益服务对你有帮助的话，欢迎加入水系社区参与开发讨论以及关注水系组织；如果发现节点异常，欢迎在水系 Github `论坛`_ 发帖或使用邮箱发送给上述任何一位 Team 成员汇报节点情况。
+  
+    ``UUID = b3d3f90c-63b2-4548-a774-648eccd00a1c``
+  
+  [1]HydroRoll-Team 社区开发者节点
+  
+      vless.hydroroll.team/{UUID}
+  
+  [2]AICMUniversity 社团节点
+  
+      vless.aicmu.ac.cn/{UUID}
+  
+  [3]简律纯个人站点节点
+  
+      vless.jyunko.cn/{UUID}
+  
+  [4]AsynthIn 企业节点
+  
+      vless.asynth.in/{UUID}
 
 .. _HsiangNianian: mailto:leader@hydroroll.team
 .. _HydroRoll[Bot]: mailto:bot@hydroroll.team
